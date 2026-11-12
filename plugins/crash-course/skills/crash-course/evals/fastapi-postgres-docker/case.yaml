@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: fastapi-postgres-docker
+expected_outcome: |
+  A researched FastAPI+Postgres course plan, a course directory with pinned docker-compose Postgres (healthcheck), quiet setup/verify/teardown scripts for the learner to run, and lesson 1 with LESSON.md, starter files with TODOs and tests.

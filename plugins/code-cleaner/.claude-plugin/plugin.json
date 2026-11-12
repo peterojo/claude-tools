@@ -1,0 +1,10 @@
+{
+  "name": "code-cleaner",
+  "description": "Read-only code reviewer agent for readability, security, best practices and performance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Opeyemi Ojo"
+  },
+  "license": "MIT",
+  "keywords": ["code-review", "agent"]
+}

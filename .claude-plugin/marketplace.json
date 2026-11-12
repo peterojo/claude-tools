@@ -1,0 +1,21 @@
+{
+  "name": "claude-tools",
+  "owner": {
+    "name": "Opeyemi Ojo"
+  },
+  "metadata": {
+    "description": "Skills and agents for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "crash-course",
+      "source": "./plugins/crash-course",
+      "description": "Hands-on, hints-based crash courses for learning a new language, framework or tool: researches the docs, plans lessons, sets up the environment and coaches you through writing the code yourself."
+    },
+    {
+      "name": "code-cleaner",
+      "source": "./plugins/code-cleaner",
+      "description": "Read-only code reviewer agent that suggests readability, security, best-practice and performance improvements with before/after code."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: rust-for-go-python-dev
+expected_outcome: |
+  A researched Rust course plan with Go/Python analogies, a Cargo-based course directory with setup/verify scripts, and lesson 1 with LESSON.md, compiling starter code with TODOs and failing tests the learner runs themselves.
