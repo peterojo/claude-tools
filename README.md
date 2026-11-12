@@ -5,7 +5,7 @@ Skills and agents for [Claude Code](https://claude.com/claude-code), packaged as
 ## Install
 
 ```
-/plugin marketplace add <github-user>/claude-tools
+/plugin marketplace add peterojo/claude-tools
 /plugin install crash-course@claude-tools
 /plugin install code-cleaner@claude-tools
 ```
